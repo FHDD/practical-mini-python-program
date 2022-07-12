@@ -5,3 +5,6 @@ K-Means clustering algorithm to achieve clustering of iris data. A runnable prog
 
 ## a2
 Use Keras and Pytorch to realize CNN neural network and fully conncection network on MINIST dataset. A runnable program.
+
+## a3
+Use the threshold method to process fingerprint images. A runnable program.
